@@ -1,0 +1,37 @@
+<!DOCTYPE HTML>
+<center><h1><span style="font-family: Arial;">Instantly Lose</span></h1>
+<body>
+<style>
+h1	{color:red}
+body	{background-color: blue}
+p	{color:red}
+h1 {
+    font-size: 250%;
+}
+p	{font-size: 150%;}
+a	{color:black}
+a {
+    text-decoration: none;
+}
+</style>
+
+<img src = "fail.jpg"
+	alt = "Y THIS PIC NO WORK?"/>
+<br>
+
+
+</br>
+<p> You just clicked a button that makes you instantly lose a game. Why would you do that? Why would you want to lose? I wouldn't put a button to let you go back to the game because you don't deserve it, but you can just click the back button and for simplicity's sake, here is a button!
+<br>
+
+
+</br>
+<button type ="button">
+<a href="ryansgameindex.html" onclick="return theFunction();">Go Back</a>
+
+<script type="text/javascript">
+    function theFunction () {
+    }
+</script>
+</button>
+</body>
