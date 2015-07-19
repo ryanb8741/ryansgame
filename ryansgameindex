@@ -1,0 +1,50 @@
+<!DOCTYPE HTML>
+<center><h1><span style="font-family: Arial;">Ryan's Game</span></h1>
+<style>
+h1	{color:cyan}
+body	{background-color: red}
+p	{color:lime}
+h1 {
+    font-size: 250%;
+}
+p	{font-size: 150%;}
+a	{color:black}
+a {
+    text-decoration: none;
+}
+</style>
+<br>
+
+
+
+</br>
+<img src = "smileyface.jpg"
+	alt = "Y THIS PIC NO WORK?"/>
+<br>
+
+
+</br>
+<p><span style="font-family: Arial;"> Welcome to my game! Would you like to start or instantly lose?</span></p>
+<br>
+
+
+
+</br>
+<button type ="button">
+<a href="ryansgamestart.html" onclick="return theFunction();">Start!</a>
+
+<script type="text/javascript">
+    function theFunction () {
+    }
+</script>
+</button>
+<button type ="button">
+<a href="ryansgameinstantlylose.html" onclick="return theFunction();">Instantly Lose!</a>
+
+
+<script type="text/javascript">
+    function theFunction () {
+    }
+</button>
+</body>	 
+
