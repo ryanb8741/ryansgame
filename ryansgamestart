@@ -1,0 +1,16 @@
+<!DOCTYPE HTML>
+<center><h1><span style="font-family: Arial;">Start</span></h1>
+<body>
+<style>
+h1	{color:cyan}
+body	{background-color: red}
+p	{color:lime}
+h1 {
+    font-size: 250%;
+}
+p	{font-size: 150%;}
+a	{color:black}
+a {
+    text-decoration: none;
+}
+</style>
